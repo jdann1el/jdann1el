@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" alt="John Danniel — design × AI" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/jdann1el/cropmark"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=3B82F6&center=true&vCenter=true&width=640&lines=prompting+things+into+existence;taste+over+tokens;building+cropmark" alt="prompting things into existence · taste over tokens · building cropmark" /></a>
+  <img src="assets/banner.gif" alt="John Danniel — design × AI. prompting things into existence · taste over tokens · building cropmark" width="100%" />
 </p>
 
 <p align="center">
