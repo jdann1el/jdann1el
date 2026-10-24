@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-email.gif" alt="John Danniel M. — Design / Marketing / AI &amp; automation" width="100%" />
+  <img src="assets/banner-v6.gif" alt="John Danniel M. — Design / Marketing / AI &amp; automation" width="100%" />
 </p>
 
 <p align="center">
