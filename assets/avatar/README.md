@@ -1,22 +1,23 @@
-# Personal avatar assets
+# Avatar personal — assets finales
 
-This directory is reserved for the finalized JD avatar artwork created in ChatGPT.
+Assets de avatar ilustrado con diseño minimalista, pelo rizado negro sólido y trazos de carbón.
 
-## Final art direction
-- Minimalist black/cream cartoon, short curly black hair, clean nose, no beard.
-- Three-quarter, front, side and back views; hoodie or black T-shirt.
-- Full-body character: **dark charcoal-gray trousers**, not pure black, with light sneakers.
-- Curl highlights and negative spaces must be **solid cream/white fills** against blue-sky backgrounds; never transparent holes that reveal the background.
-- Sky backdrop: airy pastel blue gradient, subtle peach horizon and only sparse clouds.
-- Clean landscape banner: solitary character working on a laptop outdoors, wide open daytime-blue sky with very few clouds.
+## Archivos
 
-## Prepared files (awaiting binary upload)
-- `avatar/avatar-transparent.png`
-- `avatar/avatar-sky-composite.png`
-- `backgrounds/sky-pfp.png`
-- `banners/sky-workspace-clean.png`
-- `reference/character-charcoal-pants.png`
-- `reference/charcoal-vs-black-comparison.png`
-- `reference/character-fullbody-turnaround.png`
+- `avatar/avatar-transparent.png`: personaje aislado, con canal alfa, para superponer sobre otros fondos.
+- `avatar/avatar-sky-composite.png`: retrato compuesto sobre cielo pastel.
+- `backgrounds/sky-pfp.png`: cielo pastel sin personaje.
+- `banners/sky-workspace-clean.png`: banner horizontal limpio del personaje trabajando en paisaje, nubes mínimas.
+- `reference/character-charcoal-pants.png`: selección de personajes con pantalón gris carbón (la opción final elegida).
+- `reference/charcoal-vs-black-comparison.png`: comparativa de pantalones gris oscuro y negro.
+- `reference/character-fullbody-turnaround.png`: referencias anteriores de giro, poses y expresiones; colores del pantalón anteriores a la selección final.
 
-**Status:** Design specification saved here. Image binaries are not yet committed to this repository; they are supplied separately in a ZIP from ChatGPT. Do not treat the above filenames as existing GitHub files until uploaded.
+## Reglas de identidad
+
+- Cabello rizado negro, relativamente corto, sin gorra como versión base; rostro minimalista y sin barba.
+- Rellenar siempre los huecos del pelo con un color sólido y contrastado; nunca dejar que se cuele el cielo o el fondo a través de los huecos.
+- Ropa principal: camiseta o sudadera negra, pantalón gris carbón oscuro y deportivas claras.
+- Versiones sobre fondo claro crema, azul pastel, cielo suave o azul/negro muy oscuro.
+- Mantener las proporciones y los trazos del avatar base al hacer variaciones.
+
+Estos archivos son imágenes rasterizadas; las hojas de personaje son referencias de diseño, no capas vectoriales.
